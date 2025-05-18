@@ -1,0 +1,5 @@
+private
+.env
+
+Input/*.csv
+Input/*.json
